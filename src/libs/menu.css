@@ -1,0 +1,16 @@
+.footer {
+    display: flex;
+    justify-content: space-between; /* Alinha os itens com espaço entre eles */
+    align-items: center; /* Centraliza os itens verticalmente */
+    padding: 10px; /* Adiciona um pouco de espaço ao redor do rodapé */
+  }
+  
+  .footer a {
+    text-decoration: none; /* Remove o sublinhado dos links */
+  }
+  
+  .footer img {
+    max-width: 100%; /* Garante que as imagens sejam responsivas */
+    height: auto; /* Mantém a proporção das imagens */
+  }
+  

@@ -1,0 +1,11 @@
+/* Estilo para o Popover */
+#guia {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); /* Centraliza o elemento exatamente no meio */
+    width: 600px; /* Largura do popover */
+    height: 600px; /* Altura do popover */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
+    z-index: 9999; /* Z-index alto para ficar acima dos outros elementos */
+    background-color: azure;
+  }
